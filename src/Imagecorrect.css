@@ -1,0 +1,17 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 12px;
+  }
+  
+  .item {
+    min-height: 100px;
+    background-color: #eee;
+  }
+
+  .header{
+      float: right;
+      display:flex;
+      float:Right;
+      width:100%
+  }

@@ -1,0 +1,37 @@
+{
+    "posts":[{
+        "ProductId":1,
+        "name":"purushoth",
+        "price":121
+    },{
+        "ProductId":2,
+        "name":"john",
+        "price":125
+
+    },{
+        "ProductId":3,
+        "name":"thomsan",
+        "price":127
+
+    },{
+        "ProductId":4,
+        "name":"richie",
+        "price":128
+
+    },{
+        "ProductId":5,
+        "name":"Sowmiya",
+        "price":128
+
+    },{
+        "ProductId":6,
+        "name":"jaden",
+        "price":126
+
+    },{
+        "ProductId":7,
+        "name":"mani",
+        "price":127
+
+    }]
+}
